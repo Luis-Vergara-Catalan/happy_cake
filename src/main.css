@@ -1,0 +1,48 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.texto{
+    color: white;
+}
+
+.contHome {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10%;
+}
+
+.contContact {
+    display: flex;
+    flex-direction: column;
+    padding-left: 20%;
+    width: 80%;
+}
+
+.Caja {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.boton {
+    margin:0 47%;
+}
+
+.titulo {
+    text-align: center;
+    margin-top: 6%;
+}
+
+.contNot {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.textoNot {
+    margin-left: 30%;
+}
+
+.tituloHome {
+    font-weight: lighter;
+}
